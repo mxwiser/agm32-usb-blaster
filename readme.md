@@ -12,17 +12,17 @@
 
 ### Actual Implementation
 
-![ddd](./Pictures/pcb_3d.png)
+![](./Pictures/pcb_3d.png)
 <center style="font-size:14px;color:#C0C0C0">Figure 1: PCB 3D View</center> 
 
 ***
 
-![ddd](./Pictures/cp1.jpg)
+![](./Pictures/cp1.jpg)
 <center style="font-size:14px;color:#C0C0C0;">Figure 2: PCB Layout</center> 
 
 ***
 
-![ddd](./Pictures/cp2.jpg)
+![](./Pictures/cp2.jpg)
 <center style="font-size:14px;color:#C0C0C0;">Figure 3: Finished Board</center> 
 
 ***
